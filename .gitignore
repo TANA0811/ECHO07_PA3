@@ -30,3 +30,5 @@ MemoryCaptures/
 *.mdb
 *.opendb
 *.VC.db
+# Unity Version Control - local workspace
+.plastic/
