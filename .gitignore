@@ -30,5 +30,35 @@ MemoryCaptures/
 *.mdb
 *.opendb
 *.VC.db
+<<<<<<< HEAD
 # Unity Version Control - local workspace
 .plastic/
+=======
+# Git - no incluir su base de datos interna en Unity VCS
+.git
+.git/**
+# Unity Version Control - archivos locales
+.plastic/
+cloaked.conf
+
+>>>>>>> 379aa6d (chore: ignore Unity Version Control local files)# Unity Version Control / Plastic SCM
+.plastic/
+cloaked.conf
+ignore.conf
+
+# Git
+.git
+.git/**
+
+# Archivos de revisión
+*.zip# Unity Version Control / Plastic SCM
+.plastic/
+cloaked.conf
+ignore.conf
+
+# Git
+.git
+.git/**
+
+# Archivos de revisión
+*.zip
