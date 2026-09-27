@@ -1,0 +1,43 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+# Unity Version Control / Plastic SCM
+.plastic/
+cloaked.conf
+ignore.conf
+
+# Archivos de revisión
+*.zip
+
+git status[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# Builds
+[Bb]uild/
+[Bb]uilds/
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Visual Studio / Rider
+*.csproj
+*.sln
+*.slnx
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+# Git - no incluir su base de datos interna en Unity VCS
+.git
+.git/**
